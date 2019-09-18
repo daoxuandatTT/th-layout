@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+.head {
+    background: darkgray;
+    height: 80px;
+    width: 100%;
+}
+
+.head-link {
+    background: cadetblue;
+    height: 30px;
+    width: 100%;
+}
+
+.left {
+    background: aqua;
+    height: 300px;
+    width: 15%;
+    float: left;
+}
+
+.content {
+    background: black;
+    height: 300px;
+    width: 60%;
+    float: left;
+}
+
+.right {
+    background: darkred;
+    height: 300px;
+    width: 25%;
+    float: left;
+}
+
+.footer {
+    background: #fff801;
+    height: 150px;
+    width: 100%;
+    clear: both;
+}
